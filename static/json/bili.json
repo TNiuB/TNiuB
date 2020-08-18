@@ -1,0 +1,202 @@
+{
+  'baiyan': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/baiyan.png',
+    'image_style': 'animation-duration: 1800ms;animation-timing-function: steps(45);transform: translateY(-1408px);height: 1440px;'
+  },
+  'fadai': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/fadai.png',
+    'image_style': 'animation-duration: 1080ms;animation-timing-function: steps(27);transform: translateY(-832px);height: 864px;'
+  },
+  'koubi': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/koubi.png',
+    'image_style': 'animation-duration: 1200ms;animation-timing-function: steps(30);transform: translateY(-928px);height: 960px;'
+  },
+  'qinqin': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/qinqin.png',
+    'image_style': 'animation-duration: 280ms;animation-timing-function: steps(7);transform: translateY(-192px);height: 224px;'
+  },
+  'weiqu': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/weiqu.png',
+    'image_style': 'animation-duration: 800ms;animation-timing-function: steps(20);transform: translateY(-608px);height: 640px;'
+  },
+  'bishi': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/bishi.png',
+    'image_style': 'animation-duration: 360ms;animation-timing-function: steps(9);transform: translateY(-256px);height: 288px;'
+  },
+  'fanu': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/fanu.png',
+    'image_style': 'animation-duration: 1320ms;animation-timing-function: steps(33);transform: translateY(-1024px);height: 1056px;'
+  },
+  'kun': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/kun.png',
+    'image_style': 'animation-duration: 1760ms;animation-timing-function: steps(44);transform: translateY(-1376px);height: 1408px;'
+  },
+  'se': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/se.png',
+    'image_style': 'animation-duration: 400ms;animation-timing-function: steps(10);transform: translateY(-288px);height: 320px;'
+  },
+  'weixiao': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/weixiao.png',
+    'image_style': 'animation-duration: 800ms;animation-timing-function: steps(20);transform: translateY(-608px);height: 640px;'
+  },
+  'bizui': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/bizui.png',
+    'image_style': 'animation-duration: 1240ms;animation-timing-function: steps(31);transform: translateY(-960px);height: 992px;'
+  },
+  'ganga': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/ganga.png',
+    'image_style': 'animation-duration: 1520ms;animation-timing-function: steps(38);transform: translateY(-1184px);height: 1216px;'
+  },
+  'lengmo': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/lengmo.png',
+    'image_style': 'animation-duration: 40ms;animation-timing-function: steps(1);transform: translateY(-0px);height: 32px;'
+  },
+  'shengbing': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/shengbing.png',
+    'image_style': 'animation-duration: 1400ms;animation-timing-function: steps(35);transform: translateY(-1088px);height: 1120px;'
+  },
+  'wunai': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/wunai.png',
+    'image_style': 'animation-duration: 920ms;animation-timing-function: steps(23);transform: translateY(-704px);height: 736px;'
+  },
+  'chan': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/chan.png',
+    'image_style': 'animation-duration: 1600ms;animation-timing-function: steps(40);transform: translateY(-1248px);height: 1280px;'
+  },
+  'guilian': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/guilian.png',
+    'image_style': 'animation-duration: 40ms;animation-timing-function: steps(1);transform: translateY(-0px);height: 32px;'
+  },
+  'liubixue': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/liubixue.png',
+    'image_style': 'animation-duration: 1400ms;animation-timing-function: steps(35);transform: translateY(-1088px);height: 1120px;'
+  },
+  'shengqi': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/shengqi.png',
+    'image_style': 'animation-duration: 440ms;animation-timing-function: steps(11);transform: translateY(-320px);height: 352px;'
+  },
+  'xiaoku': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/xiaoku.png',
+    'image_style': 'animation-duration: 600ms;animation-timing-function: steps(15);transform: translateY(-448px);height: 480px;'
+  },
+  'daku': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/daku.png',
+    'image_style': 'animation-duration: 320ms;animation-timing-function: steps(8);transform: translateY(-224px);height: 256px;'
+  },
+  'guzhang': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/guzhang.png',
+    'image_style': 'animation-duration: 680ms;animation-timing-function: steps(17);transform: translateY(-512px);height: 544px;'
+  },
+  'liuhan': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/liuhan.png',
+    'image_style': 'animation-duration: 1080ms;animation-timing-function: steps(27);transform: translateY(-832px);height: 864px;'
+  },
+  'shuizhao': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/shuizhao.png',
+    'image_style': 'animation-duration: 960ms;animation-timing-function: steps(24);transform: translateY(-736px);height: 768px;'
+  },
+  'xieyanxiao': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/xieyanxiao.png',
+    'image_style': 'animation-duration: 320ms;animation-timing-function: steps(8);transform: translateY(-224px);height: 256px;'
+  },
+  'dalao': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/dalao.png',
+    'image_style': 'animation-duration: 1320ms;animation-timing-function: steps(33);transform: translateY(-1024px);height: 1056px;'
+  },
+  'haixiu': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/haixiu.png',
+    'image_style': 'animation-duration: 1240ms;animation-timing-function: steps(31);transform: translateY(-960px);height: 992px;'
+  },
+  'liulei': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/liulei.png',
+    'image_style': 'animation-duration: 40ms;animation-timing-function: steps(1);transform: translateY(-0px);height: 32px;'
+  },
+  'sikao': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/sikao.png',
+    'image_style': 'animation-duration: 1440ms;animation-timing-function: steps(36);transform: translateY(-1120px);height: 1152px;'
+  },
+  'yiwen': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/yiwen.png',
+    'image_style': 'animation-duration: 840ms;animation-timing-function: steps(21);transform: translateY(-640px);height: 672px;'
+  },
+  'dalian': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/dalian.png',
+    'image_style': 'animation-duration: 1480ms;animation-timing-function: steps(37);transform: translateY(-1152px);height: 1184px;'
+  },
+  'heirenwenhao': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/heirenwenhao.png',
+    'image_style': 'animation-duration: 1040ms;animation-timing-function: steps(26);transform: translateY(-800px);height: 832px;'
+  },
+  'miantian': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/miantian.png',
+    'image_style': 'animation-duration: 1120ms;animation-timing-function: steps(28);transform: translateY(-864px);height: 896px;'
+  },
+  'tiaokan': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/tiaokan.png',
+    'image_style': 'animation-duration: 40ms;animation-timing-function: steps(1);transform: translateY(-0px);height: 32px;'
+  },
+  'yun': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/yun.png',
+    'image_style': 'animation-duration: 480ms;animation-timing-function: steps(12);transform: translateY(-352px);height: 384px;'
+  },
+  'dianzan': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/dianzan.png',
+    'image_style': 'animation-duration: 800ms;animation-timing-function: steps(20);transform: translateY(-608px);height: 640px;'
+  },
+  'huaixiao': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/huaixiao.png',
+    'image_style': 'animation-duration: 1240ms;animation-timing-function: steps(31);transform: translateY(-960px);height: 992px;'
+  },
+  'mudengkoudai': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/mudengkoudai.png',
+    'image_style': 'animation-duration: 40ms;animation-timing-function: steps(1);transform: translateY(-0px);height: 32px;'
+  },
+  'tiaopi': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/tiaopi.png',
+    'image_style': 'animation-duration: 2000ms;animation-timing-function: steps(50);transform: translateY(-1568px);height: 1600px;'
+  },
+  'zaijian': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/zaijian.png',
+    'image_style': 'animation-duration: 960ms;animation-timing-function: steps(24);transform: translateY(-736px);height: 768px;'
+  },
+  'doge': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/doge.png',
+    'image_style': 'animation-duration: 800ms;animation-timing-function: steps(20);transform: translateY(-608px);height: 640px;'
+  },
+  'jingxia': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/jingxia.png',
+    'image_style': 'animation-duration: 1280ms;animation-timing-function: steps(32);transform: translateY(-992px);height: 1024px;'
+  },
+  'nanguo': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/nanguo.png',
+    'image_style': 'animation-duration: 1120ms;animation-timing-function: steps(28);transform: translateY(-864px);height: 896px;'
+  },
+  'touxiao': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/touxiao.png',
+    'image_style': 'animation-duration: 240ms;animation-timing-function: steps(6);transform: translateY(-160px);height: 192px;'
+  },
+  'zhoumei': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/zhoumei.png',
+    'image_style': 'animation-duration: 40ms;animation-timing-function: steps(1);transform: translateY(-0px);height: 32px;'
+  },
+  'facai': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/facai.png',
+    'image_style': 'animation-duration: 1200ms;animation-timing-function: steps(30);transform: translateY(-928px);height: 960px;'
+  },
+  'keai': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/keai.png',
+    'image_style': 'animation-duration: 680ms;animation-timing-function: steps(17);transform: translateY(-512px);height: 544px;'
+  },
+  'outu': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/outu.png',
+    'image_style': 'animation-duration: 1680ms;animation-timing-function: steps(42);transform: translateY(-1312px);height: 1344px;'
+  },
+  'tuxue': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/tuxue.png',
+    'image_style': 'animation-duration: 320ms;animation-timing-function: steps(8);transform: translateY(-224px);height: 256px;'
+  },
+  'zhuakuang': {
+    'image_url': 'https://cdn.jsdelivr.net/gh/moezx/cdn@2.9.4/img/bili/zhuakuang.png',
+    'image_style': 'animation-duration: 760ms;animation-timing-function: steps(19);transform: translateY(-576px);height: 608px;'
+  }
+}

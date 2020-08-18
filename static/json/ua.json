@@ -1,0 +1,39 @@
+{
+  'browser': {
+    'unknow': 'unknow',
+    'Internet Explorer': 'ie8',
+    'Edge': 'edge',
+    '360 Browser': '360se',
+    'SouGou Browser 2': 'sogou',
+    'CM Browser': 'LBBROWSER',
+    'Built-in Browser of WeChat': 'wechat',
+    'QQBrowser': 'QQBrowser',
+    'Baidu Browser': 'baidu',
+    'UCWEB': 'ucweb',
+    'Firefox': 'firefox',
+    'Chrome for iOS': 'crios',
+    'Chrome': 'chrome',
+    'Opera': 'opera',
+    'Opera Mini': 'maxthon',
+    'wordpress': 'wordpress',
+    'Linux': 'linux'
+  },
+  'os': {
+    'Windows 10': 'windows_win10',
+    'Windows 7': 'windows_win7',
+    'Windows XP': 'windows',
+    'Windows 8': 'windows_win8',
+    'Windows 8.1': 'windows_win8',
+    'Windows Vista': 'windows_vista',
+    'Windows XP 64 bit': 'windows_phone',
+    'iPod': 'iphone',
+    'Iphone': 'iphone',
+    'iPad': 'ipad',
+    'Mac OSX': 'macos',
+    'Mac OS': 'macos',
+    'Google Chrome OS': 'chrome',
+    'Ubuntu Linux': 'ubuntu',
+    'Debian GNU/Linux': 'debian',
+    'Fedora Linux': 'fedora'
+  }
+}
